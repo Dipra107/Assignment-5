@@ -6,7 +6,6 @@ Assignment 5 Question and Answer
 
 Answering the following questions clearly:
 
-
 Q1: What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
 
 Answer: The difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll is :
